@@ -1,4 +1,4 @@
-|링크|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3)|
+|링크|[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42748)|
 |----|-----|
 |언어|Python|
 |Lv|1|
